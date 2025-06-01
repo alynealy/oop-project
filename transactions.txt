@@ -1,0 +1,3 @@
+Alice Bob Bitcoin 0.5
+Bob Carol Tether 10.0
+Carol Alice Filecoin 2.0

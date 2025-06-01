@@ -1,0 +1,3 @@
+Alice 10 Y 2 Bitcoin Ethereum
+Bob 5 Y 1 Tether
+Carol 8 Y 2 Bitcoin Filecoin
