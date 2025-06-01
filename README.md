@@ -2,13 +2,11 @@
 Coinqueror is a comprehensive C++ application that simulates a cryptocurrency management platform, offering functionalities similar to Binance but with enhanced features. The project demonstrates advanced object-oriented programming (OOP) concepts, including polymorphism, inheritance (diamond inheritance resolution), templates, operator overloading, and file I/O. It integrates real-time auditing, blockchain transaction tracking, and wallet management to provide a robust digital asset ecosystem.
 
 Digital Asset Management
-
   Hierarchical classes (DigitalAsset, Token, MarketEntity, CryptoCurrency, UtilityCoin, StableCoin) model cryptocurrencies with distinct properties.
   Polymorphic behavior via virtual functions (displayInfo(), calculateMarketValue()).
   Diamond inheritance resolved for CryptoCurrency (combining Token and MarketEntity).
 
 Wallet & Blockchain Integration
-
   Wallet class manages user portfolios and supports dynamic expansion.
   Blockchain class tracks transactions between wallets.
   Transaction class handles crypto transfers with validation.
